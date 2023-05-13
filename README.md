@@ -1,0 +1,1 @@
+# FT-preview-card-component
